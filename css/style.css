@@ -20,3 +20,47 @@ h1{
     font-size: 20px;
 }
 
+.text-evidenziato{
+    background-color: yellow;
+}
+
+table{
+    border-collapse: collapse;
+    text-align: left;
+}
+
+thead{
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+
+.celle-celesti{
+    background-color: lightblue;
+}
+
+.scritta-finale{
+    color: grey;
+    font-size: 25px;
+}
+
+.primo-computer{
+    text-align: left;
+    font-size: 20px;
+    color: white;
+    background-image: url(../img/monitor.jpg);
+    height: 250px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+
+.secondo-computer{
+    text-align: left;
+    font-size: 20px;
+    color: white;
+    height: 250px;
+    background-image: url(../img/graph.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
