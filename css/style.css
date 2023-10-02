@@ -9,6 +9,11 @@
 
 h1{
     color: white;
+    position: absolute;
+    margin-top: 2%;
+    font-family: verdana;
+    line-height: 150%;
+    text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
 }
 
 .titolo-principale{
@@ -35,8 +40,13 @@ thead{
     text-align: center;
 }
 
+
 .celle-celesti{
     background-color: lightblue;
+}
+
+td{
+    height: 60px;
 }
 
 .scritta-finale{
