@@ -1,0 +1,22 @@
+.pattern{
+    background-color: lightblue;
+    height: 70px;
+    background-image: url(../img/pattern.png);
+    background-size: contain;
+    background-repeat: repeat;
+    background-size: 20%;
+}
+
+h1{
+    color: white;
+}
+
+.titolo-principale{
+    font-size: 50px;
+}
+
+.booleaners-blue{
+    color: blue;
+    font-size: 20px;
+}
+
